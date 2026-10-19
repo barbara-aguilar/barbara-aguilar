@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bárbara 👋
 
-<!--
-**barbara-aguilar/barbara-aguilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designer and Front-End Software Engineer. 
+Passionate about microfrontends, design systems and pixel perfect interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ Stack
+React · TypeScript · JavaScript · Next.js · Vite · Nx · Module Federation · Storybook · Styled-components · Jest · Vitest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎛️ Synths & Web Audio
+I study synthesizers (Korg Volca Keys and Volca FM2) and bring that into the browser with the **Web Audio API** and **Web MIDI API**: oscillators, filters, envelopes and MIDI control.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/barbara-aguilar) · barbaraaguilar.dev@gmail.com
